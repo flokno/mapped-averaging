@@ -1,10 +1,10 @@
 ###############################################################################
-# pyhma: A Python library for HMA method 
-# 
+# pyhma: A Python library for HMA method
+#
 # Copyright (c) 2019
-# 
-# Authors: Sabry Moustafa, Andrew Schultz, and David Kofke 
-# 
+#
+# Authors: Sabry Moustafa, Andrew Schultz, and David Kofke
+#
 # pyhma is a free software
 ###############################################################################
 
@@ -18,6 +18,5 @@ __author__ = "Sabry Moustafa, Andrew Schultz, and David Kofke"
 __license__ = "Mozilla Public License"
 __email__ = "sabrygad@buffalo.edu, ajs42@buffalo.edu, kofke@buffalo.edu"
 
-from pyhma.vasp_reader   import read
-from pyhma.processor     import Processor
-
+from pyhma.vasp_reader import read
+from pyhma.processor import Processor
